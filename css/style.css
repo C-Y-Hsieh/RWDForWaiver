@@ -60,9 +60,9 @@ nav a:hover, nav a:focus{
 	background: url("../images/header.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;		
-	/* background-position: center;
-	background-size: contain;
-	background-size: auto 400px ; */	
+	background-position: center;
+	background-size: cover;
+	/* background-size: auto 400px ; */	
 	color: #FFFFFF;
 }  
 
